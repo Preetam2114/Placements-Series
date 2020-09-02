@@ -4,3 +4,4 @@
     - Linear Search
     - Binary Search
     - Pair with sum k
+    - Majority element
