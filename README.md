@@ -11,3 +11,4 @@
     - Find the element who's sum is cloest to 0
     - Find triplate with sum x
     - Equilibrium index of an array
+    - Find the maximum element for each and every contiguous subarray of size K
