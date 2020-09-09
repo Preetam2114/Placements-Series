@@ -12,3 +12,4 @@
     - Find triplate with sum x
     - Equilibrium index of an array
     - Find the maximum element for each and every contiguous subarray of size K
+    - Count smaller elements on right side
