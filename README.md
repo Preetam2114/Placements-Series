@@ -14,3 +14,4 @@
 - Find the maximum element for each and every contiguous subarray of size K
 - Count smaller elements on right side
 - Find the largest multiple of 3
+- Find subarray with given sum
