@@ -15,3 +15,4 @@
 - Count smaller elements on right side
 - Find the largest multiple of 3
 - Find subarray with given sum
+- Find the largest subarray with equal number of 0's & 1's
