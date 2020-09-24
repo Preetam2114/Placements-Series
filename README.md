@@ -18,3 +18,4 @@
 - Find the largest subarray with equal number of 0's & 1's
 - Product of array without using division operator
 - Sort a nearly sorted (or K sorted) array
+- Find duplicates in O(n) time and O(1) extra space
