@@ -22,3 +22,4 @@
 - Find the two repeating elements in a given array
 - Sort an array in wave form
 - Find next greater number with same set of digits
+- Trapping Rain Water
