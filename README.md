@@ -23,3 +23,4 @@
 - Sort an array in wave form
 - Find next greater number with same set of digits
 - Trapping Rain Water
+- Count the number of possible triangles
