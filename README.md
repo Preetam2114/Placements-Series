@@ -20,3 +20,4 @@
 - Sort a nearly sorted (or K sorted) array
 - Find duplicates in O(n) time and O(1) extra space
 - Find the two repeating elements in a given array
+- Sort an array in wave form
