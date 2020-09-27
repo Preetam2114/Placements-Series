@@ -26,3 +26,4 @@
 - Count the number of possible triangles
 - Smallest positive integer value that cannot be represented as sum of any subset
 - Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space
+- Rotate a matrix by 90 degree in clockwise direction without using any extra space
