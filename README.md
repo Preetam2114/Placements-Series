@@ -24,3 +24,4 @@
 - Find next greater number with same set of digits
 - Trapping Rain Water
 - Count the number of possible triangles
+- Smallest positive integer value that cannot be represented as sum of any subset
