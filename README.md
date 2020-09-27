@@ -25,3 +25,4 @@
 - Trapping Rain Water
 - Count the number of possible triangles
 - Smallest positive integer value that cannot be represented as sum of any subset
+- Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space
